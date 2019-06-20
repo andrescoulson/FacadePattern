@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FacadePatterns</string>
+    <string name="juice">Jugo de fruta</string>
+    <string name="apple">Apple</string>
+    <string name="orange">Orange</string>
+    <string name="soda">Gaseosa</string>
+</resources>
